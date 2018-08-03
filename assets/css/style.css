@@ -81,3 +81,16 @@ section:after{
     height: 180px;
     width: auto;
 }
+
+footer{
+    position: fixed;
+    bottom: 0px;
+}
+
+@media screen and (max-width: 640px){
+    h1{
+        width: 100%;
+        left: 0px;
+        margin-bottom: 15px;
+    }
+}
