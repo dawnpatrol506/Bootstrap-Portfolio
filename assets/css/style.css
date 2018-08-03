@@ -52,3 +52,9 @@ section{
 h3{
     color: #4aaaa5;
 }
+
+#sbmt{
+    background-color: #4aaaa5;
+    margin: 7px;
+    border: 0px;
+}
