@@ -3,7 +3,7 @@ body{
     background-image: url("/assets/images/qbkls.png");
 }
 
-img{
+.fam-img{
     width: 350px;
     margin: 0px 15px 15px 0px;
 }
@@ -57,4 +57,27 @@ h3{
     background-color: #4aaaa5;
     margin: 7px;
     border: 0px;
+}
+
+.card-body{
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.1em;
+}
+
+section:after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.card{
+    margin: 7px;
+}
+
+.card-img-top{
+    height: 180px;
+    width: auto;
 }
