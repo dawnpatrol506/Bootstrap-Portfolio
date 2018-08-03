@@ -3,7 +3,7 @@ body{
     background-image: url("/assets/images/qbkls.png");
 }
 
-.fam-img{
+#fam-img{
     width: 350px;
     margin: 0px 15px 15px 0px;
 }
