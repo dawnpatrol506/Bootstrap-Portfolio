@@ -1,9 +1,11 @@
 body{
     color: #777;
+    background-image: url("/assets/images/qbkls.png");
 }
 
 img{
-    max-width: 200px;
+    width: 350px;
+    margin: 0px 15px 15px 0px;
 }
 
 a{
@@ -24,5 +26,25 @@ h1{
     margin: 0px;
     position: relative;
     top: 8px;
-    left: 10%;
+    left: 4%;
+}
+
+footer{
+    background-color: #777;
+    color: #ccc;
+    padding: 20px 0px;
+    text-align: center;
+    border-top: solid #4aaaa5 4px;
+}
+
+.copy-right{
+    position: relative;
+    top: 28px;
+
+}
+
+section{
+    background-color: #fff;
+    padding: 15px;
+    margin: 50px 0px;
 }
