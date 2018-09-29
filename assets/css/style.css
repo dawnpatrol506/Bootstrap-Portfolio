@@ -12,6 +12,10 @@ a{
     color: #777;
 }
 
+.card a{
+    color: white
+}
+
 nav{
     background-color: #ffffff;
     border-bottom: solid #cccccc 2px;
@@ -85,6 +89,7 @@ section:after{
 footer{
     position: fixed;
     bottom: 0px;
+    margin-top: 5px;
 }
 
 @media screen and (max-width: 640px){
